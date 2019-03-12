@@ -1,4 +1,4 @@
-import { Greeter } from './module'
+import { Greeter } from './module';
 
 const a = new Greeter();
 
